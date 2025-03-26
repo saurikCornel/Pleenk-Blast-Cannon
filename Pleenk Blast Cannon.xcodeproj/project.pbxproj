@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		FAC830D12D946B2400CA82C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FAC830B82D946B2300CA82C3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FAC830BF2D946B2300CA82C3;
+			remoteInfo = "Pleenk Blast Cannon";
+		};
+		FAC830DB2D946B2400CA82C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FAC830B82D946B2300CA82C3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FAC830BF2D946B2300CA82C3;
+			remoteInfo = "Pleenk Blast Cannon";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FAC830C02D946B2300CA82C3 /* Pleenk Blast Cannon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pleenk Blast Cannon.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAC830D02D946B2400CA82C3 /* Pleenk Blast CannonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pleenk Blast CannonTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAC830DA2D946B2400CA82C3 /* Pleenk Blast CannonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pleenk Blast CannonUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		FAC830C22D946B2300CA82C3 /* Pleenk Blast Cannon */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Pleenk Blast Cannon";
+			sourceTree = "<group>";
+		};
+		FAC830D32D946B2400CA82C3 /* Pleenk Blast CannonTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Pleenk Blast CannonTests";
+			sourceTree = "<group>";
+		};
+		FAC830DD2D946B2400CA82C3 /* Pleenk Blast CannonUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Pleenk Blast CannonUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FAC830BD2D946B2300CA82C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAC830CD2D946B2400CA82C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAC830D72D946B2400CA82C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FAC830B72D946B2300CA82C3 = {
+			isa = PBXGroup;
+			children = (
+				FAC830C22D946B2300CA82C3 /* Pleenk Blast Cannon */,
+				FAC830D32D946B2400CA82C3 /* Pleenk Blast CannonTests */,
+				FAC830DD2D946B2400CA82C3 /* Pleenk Blast CannonUITests */,
+				FAC830C12D946B2300CA82C3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FAC830C12D946B2300CA82C3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FAC830C02D946B2300CA82C3 /* Pleenk Blast Cannon.app */,
+				FAC830D02D946B2400CA82C3 /* Pleenk Blast CannonTests.xctest */,
+				FAC830DA2D946B2400CA82C3 /* Pleenk Blast CannonUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FAC830BF2D946B2300CA82C3 /* Pleenk Blast Cannon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAC830E42D946B2400CA82C3 /* Build configuration list for PBXNativeTarget "Pleenk Blast Cannon" */;
+			buildPhases = (
+				FAC830BC2D946B2300CA82C3 /* Sources */,
+				FAC830BD2D946B2300CA82C3 /* Frameworks */,
+				FAC830BE2D946B2300CA82C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				FAC830C22D946B2300CA82C3 /* Pleenk Blast Cannon */,
+			);
+			name = "Pleenk Blast Cannon";
+			packageProductDependencies = (
+			);
+			productName = "Pleenk Blast Cannon";
+			productReference = FAC830C02D946B2300CA82C3 /* Pleenk Blast Cannon.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FAC830CF2D946B2400CA82C3 /* Pleenk Blast CannonTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAC830E72D946B2400CA82C3 /* Build configuration list for PBXNativeTarget "Pleenk Blast CannonTests" */;
+			buildPhases = (
+				FAC830CC2D946B2400CA82C3 /* Sources */,
+				FAC830CD2D946B2400CA82C3 /* Frameworks */,
+				FAC830CE2D946B2400CA82C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FAC830D22D946B2400CA82C3 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FAC830D32D946B2400CA82C3 /* Pleenk Blast CannonTests */,
+			);
+			name = "Pleenk Blast CannonTests";
+			packageProductDependencies = (
+			);
+			productName = "Pleenk Blast CannonTests";
+			productReference = FAC830D02D946B2400CA82C3 /* Pleenk Blast CannonTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FAC830D92D946B2400CA82C3 /* Pleenk Blast CannonUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAC830EA2D946B2400CA82C3 /* Build configuration list for PBXNativeTarget "Pleenk Blast CannonUITests" */;
+			buildPhases = (
+				FAC830D62D946B2400CA82C3 /* Sources */,
+				FAC830D72D946B2400CA82C3 /* Frameworks */,
+				FAC830D82D946B2400CA82C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FAC830DC2D946B2400CA82C3 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FAC830DD2D946B2400CA82C3 /* Pleenk Blast CannonUITests */,
+			);
+			name = "Pleenk Blast CannonUITests";
+			packageProductDependencies = (
+			);
+			productName = "Pleenk Blast CannonUITests";
+			productReference = FAC830DA2D946B2400CA82C3 /* Pleenk Blast CannonUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FAC830B82D946B2300CA82C3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					FAC830BF2D946B2300CA82C3 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					FAC830CF2D946B2400CA82C3 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = FAC830BF2D946B2300CA82C3;
+					};
+					FAC830D92D946B2400CA82C3 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = FAC830BF2D946B2300CA82C3;
+					};
+				};
+			};
+			buildConfigurationList = FAC830BB2D946B2300CA82C3 /* Build configuration list for PBXProject "Pleenk Blast Cannon" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FAC830B72D946B2300CA82C3;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FAC830C12D946B2300CA82C3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FAC830BF2D946B2300CA82C3 /* Pleenk Blast Cannon */,
+				FAC830CF2D946B2400CA82C3 /* Pleenk Blast CannonTests */,
+				FAC830D92D946B2400CA82C3 /* Pleenk Blast CannonUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FAC830BE2D946B2300CA82C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAC830CE2D946B2400CA82C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAC830D82D946B2400CA82C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FAC830BC2D946B2300CA82C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAC830CC2D946B2400CA82C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAC830D62D946B2400CA82C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FAC830D22D946B2400CA82C3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FAC830BF2D946B2300CA82C3 /* Pleenk Blast Cannon */;
+			targetProxy = FAC830D12D946B2400CA82C3 /* PBXContainerItemProxy */;
+		};
+		FAC830DC2D946B2400CA82C3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FAC830BF2D946B2300CA82C3 /* Pleenk Blast Cannon */;
+			targetProxy = FAC830DB2D946B2400CA82C3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FAC830E22D946B2400CA82C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FAC830E32D946B2400CA82C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FAC830E52D946B2400CA82C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Pleenk Blast Cannon/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zombiemssn.game.Pleenk-Blast-Cannon";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FAC830E62D946B2400CA82C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Pleenk Blast Cannon/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zombiemssn.game.Pleenk-Blast-Cannon";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FAC830E82D946B2400CA82C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zombiemssn.game.Pleenk-Blast-CannonTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pleenk Blast Cannon.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Pleenk Blast Cannon";
+			};
+			name = Debug;
+		};
+		FAC830E92D946B2400CA82C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zombiemssn.game.Pleenk-Blast-CannonTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pleenk Blast Cannon.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Pleenk Blast Cannon";
+			};
+			name = Release;
+		};
+		FAC830EB2D946B2400CA82C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zombiemssn.game.Pleenk-Blast-CannonUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Pleenk Blast Cannon";
+			};
+			name = Debug;
+		};
+		FAC830EC2D946B2400CA82C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zombiemssn.game.Pleenk-Blast-CannonUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Pleenk Blast Cannon";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FAC830BB2D946B2300CA82C3 /* Build configuration list for PBXProject "Pleenk Blast Cannon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAC830E22D946B2400CA82C3 /* Debug */,
+				FAC830E32D946B2400CA82C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FAC830E42D946B2400CA82C3 /* Build configuration list for PBXNativeTarget "Pleenk Blast Cannon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAC830E52D946B2400CA82C3 /* Debug */,
+				FAC830E62D946B2400CA82C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FAC830E72D946B2400CA82C3 /* Build configuration list for PBXNativeTarget "Pleenk Blast CannonTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAC830E82D946B2400CA82C3 /* Debug */,
+				FAC830E92D946B2400CA82C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FAC830EA2D946B2400CA82C3 /* Build configuration list for PBXNativeTarget "Pleenk Blast CannonUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAC830EB2D946B2400CA82C3 /* Debug */,
+				FAC830EC2D946B2400CA82C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FAC830B82D946B2300CA82C3 /* Project object */;
+}
