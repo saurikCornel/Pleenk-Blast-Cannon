@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lv_up_2.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
