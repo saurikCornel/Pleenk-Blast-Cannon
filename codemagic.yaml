@@ -8,8 +8,8 @@ workflows:
         vars:
           XCODE_PROJECT: "Pleenk Blast Cannon.xcodeproj"
           XCODE_SCHEME: "Pleenk Blast Cannon"
-          BUNDLE_ID: "com.zombiemssn.game"
-          APP_STORE_APPLE_ID: 6743702899
+          BUNDLE_ID: "com.pleenkblast.cannon"
+          APP_STORE_APPLE_ID: 6743803152
         xcode: latest
         cocoapods: default
       triggering:
